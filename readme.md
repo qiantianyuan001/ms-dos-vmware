@@ -14,3 +14,6 @@ git clone https://github.com/qiantianyuan001/ms-dos-vmware.git
 cd ms-dos-vmware
 ```
 用VMware player 或 VMware workstation打开，修改存储路径，开启虚拟机即可。
+
+## 捐助
+![myzfb](https://github.com/qiantianyuan001/donate/blob/master/images/myzfb-large.png)
